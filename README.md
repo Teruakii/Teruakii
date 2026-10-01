@@ -1,23 +1,26 @@
-# Hi, I'm Chris 
+# Hi, I'm Christin 👋
 
-Backend developer who enjoys building clean, maintainable APIs with **Go** and **Node.js**.
-Interested in Clean Architecture and Hexagonal (Ports & Adapters).
+4th-year Information Technology student at Thai-Nichi Institute of Technology,
+looking for a **Backend / Full-stack Developer internship**.
+
+I enjoy building clean, maintainable APIs with **Go** and **Node.js**,
+and I'm interested in Clean Architecture and Hexagonal (Ports & Adapters).
 
 ## Tech Stack
 
-- **Languages:** Go, JavaScript
-- **Backend:** Gin, Express, GORM, Prisma
-- **Frontend:** Next.js, Tailwind CSS
-- **Database:** MySQL
+- **Languages:** Go, JavaScript, TypeScript
+- **Backend:** Gin, Express, GORM, Prisma, RESTful API
+- **Frontend:** Next.js, Vue.js, HTML, CSS, Tailwind CSS
+- **Database:** MySQL, PostgreSQL
 - **Auth:** JWT, Google OAuth
+- **Tools:** Git, GitHub, Docker, Postman, Figma
 
 ## Featured Projects
 
+- [**vocabulary-service**](https://github.com/Teruakii/vocabulary-service) — Vocabulary learning backend in Go + Gin + GORM (MySQL, Docker). Hexagonal/Clean Architecture, JWT & Google OAuth, spaced repetition
 - [**spotlight-backend**](https://github.com/Teruakii/spotlight-backend) — RESTful API with Node.js, Express, Prisma, built on Clean/Hexagonal Architecture
-- [**vocabulary-service**](https://github.com/Teruakii/vocabulary-service) — Vocabulary app backend in Go + Gin with auth and spaced repetition
-- [**spotlight-frontend**](https://github.com/Teruakii/spotlight-frontend) — Travel & dining guide built with Next.js
+- [**spotlight-frontend**](https://github.com/Teruakii/spotlight-frontend) — Travel & dining guide built with Next.js and Tailwind CSS
 
 ## Contact
 
 - Email: amp.chrisitin@gmail.com
-
