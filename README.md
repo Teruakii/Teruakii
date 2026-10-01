@@ -1,7 +1,7 @@
 # Hi, I'm Christin 👋
 
-4th-year Information Technology student at Thai-Nichi Institute of Technology,
-looking for a **Backend / Full-stack Developer internship**.
+Full-stack developer with a focus on backend, who enjoys building clean, maintainable APIs with **Go** and **Node.js**, and modern user interfaces with **Next.js** and **Vue.js**.
+Interested in Clean Architecture and Hexagonal (Ports & Adapters).
 
 I enjoy building clean, maintainable APIs with **Go** and **Node.js**,
 and I'm interested in Clean Architecture and Hexagonal (Ports & Adapters).
