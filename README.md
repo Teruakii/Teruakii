@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christin
 
-I'm a 4th-year IT student at Thai-Nichi Institute of Technology, focused on **backend development**. My goal is to become a **Backend / Full-stack Developer** who builds clean, maintainable, and scalable systems.
+I'm an IT student focused on **backend development**. My goal is to become a **Backend / Full-stack Developer** who builds clean, scalable, and maintainable systems.
 
 - 💼 Open to internships and collaborations.
 - 📧 **[Email]** [amp.chrisitin@gmail.com](mailto:amp.chrisitin@gmail.com)
