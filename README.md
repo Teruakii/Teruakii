@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Chris 👋
 
-<!--
-**Teruakii/Teruakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer who enjoys building clean, maintainable APIs with **Go** and **Node.js**.
+Interested in Clean Architecture and Hexagonal (Ports & Adapters).
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Go, JavaScript
+- **Backend:** Gin, Express, GORM, Prisma
+- **Frontend:** Next.js, Tailwind CSS
+- **Database:** MySQL
+- **Auth:** JWT, Google OAuth
+
+## Featured Projects
+
+- [**spotlight-backend**](https://github.com/Teruakii/spotlight-backend) — RESTful API with Node.js, Express, Prisma, built on Clean/Hexagonal Architecture
+- [**vocabulary-service**](https://github.com/Teruakii/vocabulary-service) — Vocabulary app backend in Go + Gin with auth and spaced repetition
+- [**spotlight-frontend**](https://github.com/Teruakii/spotlight-frontend) — Travel & dining guide built with Next.js
+
+## Contact
+
+- Email: amp.chrisitin@gmail.com
+
