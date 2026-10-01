@@ -3,9 +3,6 @@
 Full-stack developer with a focus on backend, who enjoys building clean, maintainable APIs with **Go** and **Node.js**, and modern user interfaces with **Next.js** and **Vue.js**.
 Interested in Clean Architecture and Hexagonal (Ports & Adapters).
 
-I enjoy building clean, maintainable APIs with **Go** and **Node.js**,
-and I'm interested in Clean Architecture and Hexagonal (Ports & Adapters).
-
 ## Tech Stack
 
 - **Languages:** Go, JavaScript, TypeScript
