@@ -8,7 +8,7 @@ I'm an IT student focused on **backend development**. My goal is to become a **B
 
 ---
 
-## 🧰 My Tech Stack
+## My Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -23,9 +23,9 @@ I'm an IT student focused on **backend development**. My goal is to become a **B
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 1. vocabulary-service 📚 | [View Repository](https://github.com/Teruakii/vocabulary-service)
+### 1. vocabulary-service  | [View Repository](https://github.com/Teruakii/vocabulary-service)
 
 Backend API for a vocabulary learning app, built with Go and designed with Hexagonal and Clean Architecture.
 
@@ -33,7 +33,7 @@ Backend API for a vocabulary learning app, built with Go and designed with Hexag
 - **Focus:** Separates the system into Handler, Service and Repository layers for high testability and maintainability.
 - **Tech Stack:** `Go` • `Gin` • `GORM` • `MySQL` • `JWT` • `Google OAuth` • `Docker`
 
-### 2. spotlight-backend 🍽️ | [View Repository](https://github.com/Teruakii/spotlight-backend)
+### 2. spotlight-backend | [View Repository](https://github.com/Teruakii/spotlight-backend)
 
 RESTful API backend for a travel and dining guide, built following Clean Architecture and Hexagonal (Ports & Adapters) principles.
 
@@ -41,7 +41,7 @@ RESTful API backend for a travel and dining guide, built following Clean Archite
 - **Focus:** Demonstrates layered architecture for scalability and maintainability.
 - **Tech Stack:** `Node.js` • `Express` • `Prisma`
 
-### 3. spotlight-frontend 🌏 | [View Repository](https://github.com/Teruakii/spotlight-frontend)
+### 3. spotlight-frontend  | [View Repository](https://github.com/Teruakii/spotlight-frontend)
 
 Frontend of the Spotlight travel and dining guide.
 
