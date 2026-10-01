@@ -1,4 +1,4 @@
-# Hi, I'm Chris 👋
+# Hi, I'm Chris 
 
 Backend developer who enjoys building clean, maintainable APIs with **Go** and **Node.js**.
 Interested in Clean Architecture and Hexagonal (Ports & Adapters).
