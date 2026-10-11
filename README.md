@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Christin
+# Hi, I'm Christin
 
 I'm an IT student focused on **backend development**. My goal is to become a **Backend / Full-stack Developer** who builds clean, scalable, and maintainable systems.
 
-- 💼 Open to internships and collaborations.
+- Open to internships and collaborations.
 - 📧 **[Email]** [amp.chrisitin@gmail.com](mailto:amp.chrisitin@gmail.com)
 - 🔗 **[LinkedIn]** [Christin Ampai](https://www.linkedin.com/in/christin-ampai-82a3b8440)
 
