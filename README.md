@@ -48,6 +48,13 @@ Frontend of the Spotlight travel and dining guide.
 - **What it does:** Lets users search and discover restaurants and tourist attractions.
 - **Tech Stack:** `Next.js` • `Tailwind CSS` • `JavaScript`
 
+### 4.  dulaedee-web  | [View Repository](https://github.com/Teruakii/dulaedee-web)
+
+Frontend of dulaedee (ดูแลดี), a Thai health app for friends and family.
+
+- **What it does:** Counts calories for Thai dishes, logs water, weight, skin routines and workouts, and keeps people motivated with streaks, badges and weekly group challenges.
+- **Tech Stack:** `Vue 3` • `TypeScript` • `Vite` • `Pinia` • `Element Plus` • `Tailwind CSS`
+
 ---
 
 ## 📫 Contact
